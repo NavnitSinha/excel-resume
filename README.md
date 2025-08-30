@@ -23,10 +23,10 @@ The goal was to process missing values, highlight business-critical insights, an
 
 
 🚀 How to Use:
-- Download the Excel file from this repository.
+- Use the Google Drive Link above to see the 421k rows excel file.
 - Open it in Excel 2016 or later.
-- Explore the cleaned dataset and the visual dashboard for insights.
-- Go to "Visual Representation" to see all the Visuals of the file. 
+- Explore the cleaned dataset.
+- Check the "Visual Representation" file in this repo to see the insights created purely using excel. 
 
 📈 Key Learnings:
 Handling large datasets efficiently in Excel.
