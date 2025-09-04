@@ -19,7 +19,8 @@ The goal was to process missing values, highlight business-critical insights, an
 
 📸 Screenshots
 
-<img width="944" height="317" alt="image" src="https://github.com/user-attachments/assets/40b6cbb3-4b33-499a-99b3-6aae4766020d" />
+
+<img width="943" height="322" alt="image" src="https://github.com/user-attachments/assets/feef5cc0-5882-41fb-af54-92b220298f08" />
 
 
 🚀 How to Use:
